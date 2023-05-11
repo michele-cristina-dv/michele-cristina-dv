@@ -5,7 +5,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4D03AQGZqYJqxoTMTw/profile-displayphoto-shrink_200_200/0/1660619643709?e=1683158400&v=beta&t=zQ_F97rOTUUC7S5aAcozcphfa44P4EgUqoDvF7LBodg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/michele-cristina-dv/michele-cristina-dv/assets/123883367/70355a49-0573-421b-8ad6-00c3c76607b1">
 </div>
   
   ##
